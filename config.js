@@ -33,7 +33,7 @@ OWNER_NAME: process.env.OWNER_NAME || "Mʀ✰RIAZ HUSSAIAN",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ RIAZ HUSSAIN*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/C39tm7Ny",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://ibb.co/7xGTn6mg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> Zinda Hun Yar *✦RIAZ HUSSAIN✦*⚡",
 // add alive msg here 
